@@ -1,0 +1,37 @@
+Testing methodologies & SDLC
+1. What are the different types of testing?
+        we have two types of  testing they are functional testing and non-functional testing.In these testing we have more sub heading that are
+FUNCTIONAL TESTING:
+•	Unit testing:
+                   Unit testing is also known as component level mostly it is done by the developers and also they worked in the particular to the unit.
+•	Integration testing:
+                   Integration testing is different from unit testing .In integration two or more component work at the same time
+•	Regression testing:
+                   Regression testing is one of the important testing for testersand also this testing will go for automation testing. It is also known as E to E
+(End to End )testing.
+•	Smoke testing:
+Smoke testing we called as high level testing.It has less number of        testing cases.We have to move important regression test cases to  smoke testing
+NON- FUNCTIONAL TESTING:
+•	Documentation testing: it have to be in manual 
+•	Installation testing: It is the process to install
+•	Security:Extra features
+•	Performance:Performing application (eg: load,spike,endurance testing)
+2. What are the different STLC phases?
+           STLC means (SOFTWARE TESTING LIFE CYCLE )
+a.	Requirement analysis
+b.	Test plan
+c.	Test design
+d.	Environment setup
+e.	Test execution
+f.	Test closure
+As a tester it is a cycle process.
+3. As a manual tester, what are the qualities do you posses provide examples to illustrate your points?
+a.	  Ability to managing project 
+b.	  Knowlege of agile frame work 
+c.	Understanding of regression testing
+d.	You can analyze data
+4.What are the different between waterfall &agile methodologies in SDLC?
+I.	     Waterfall is the classical SDLC methodology thet follows logical progression of linear sequential phases within the project lifecycle.
+II.	    Agile is mostly designed to facilitate and eliminate the  waste process when we compared waterfall methodology agile is a quick process to finish 
+ 
+ 
